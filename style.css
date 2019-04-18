@@ -1,0 +1,24 @@
+*{
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+}
+#grid-container {
+
+  background-color: #ccc;
+  padding: 5;
+  width: 400px;
+  height: 400px;
+  position: relative;
+}
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  text-align: center;
+  margin:0;
+}
+
+body {
+  text-align: center;
+}
+
